@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonelliBot", "BonelliBot\BonelliBot.csproj", "{8A1151DC-9E0D-4075-92A6-DBE6F68973AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivationTool", "ActivationTool\ActivationTool.csproj", "{9AB7F3EB-8254-461B-965D-983D47DA0AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLicense", "QLicense\QLicense.csproj", "{9A6A4CAB-0725-4FF7-BFF0-84E66C26365B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActivationControls4Win", "ActivationControls4Win\ActivationControls4Win.csproj", "{7C59C7CC-EACB-408F-A498-28C73459AA07}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InstagramApiSharp", "InstagramApiSharp\InstagramApiSharp.csproj", "{48B4EA79-527F-49B5-836C-558D134B7B76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A1151DC-9E0D-4075-92A6-DBE6F68973AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1151DC-9E0D-4075-92A6-DBE6F68973AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1151DC-9E0D-4075-92A6-DBE6F68973AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1151DC-9E0D-4075-92A6-DBE6F68973AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB7F3EB-8254-461B-965D-983D47DA0AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB7F3EB-8254-461B-965D-983D47DA0AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB7F3EB-8254-461B-965D-983D47DA0AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB7F3EB-8254-461B-965D-983D47DA0AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6A4CAB-0725-4FF7-BFF0-84E66C26365B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6A4CAB-0725-4FF7-BFF0-84E66C26365B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6A4CAB-0725-4FF7-BFF0-84E66C26365B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6A4CAB-0725-4FF7-BFF0-84E66C26365B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C59C7CC-EACB-408F-A498-28C73459AA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C59C7CC-EACB-408F-A498-28C73459AA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C59C7CC-EACB-408F-A498-28C73459AA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C59C7CC-EACB-408F-A498-28C73459AA07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48B4EA79-527F-49B5-836C-558D134B7B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B4EA79-527F-49B5-836C-558D134B7B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B4EA79-527F-49B5-836C-558D134B7B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B4EA79-527F-49B5-836C-558D134B7B76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D54B141A-9A9F-45C8-B677-06E223C088B7}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/mohkardan
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BonelliBot\\BonelliBot.csproj
+		SccProjectName1 = BonelliBot
+		SccLocalPath1 = BonelliBot
+		SccProjectUniqueName2 = ActivationTool\\ActivationTool.csproj
+		SccProjectName2 = ActivationTool
+		SccLocalPath2 = ActivationTool
+		SccProjectUniqueName3 = QLicense\\QLicense.csproj
+		SccProjectName3 = QLicense
+		SccLocalPath3 = QLicense
+		SccProjectUniqueName4 = ActivationControls4Win\\ActivationControls4Win.csproj
+		SccProjectName4 = ActivationControls4Win
+		SccLocalPath4 = ActivationControls4Win
+		SccProjectUniqueName5 = InstagramApiSharp\\InstagramApiSharp.csproj
+		SccProjectName5 = InstagramApiSharp
+		SccLocalPath5 = InstagramApiSharp
+	EndGlobalSection
+EndGlobal
